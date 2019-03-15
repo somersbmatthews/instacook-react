@@ -1,1 +1,1 @@
-![Wireframe for instacook-react front-end](https://raw.githubusercontent.com/somersbmatthews/readme-images/instacook-react-wireframe.png)
+![Wireframe for instacook-react front-end](https://github.com/somersbmatthews/readme-images/blob/master/instacook-react-wireframe.png)
