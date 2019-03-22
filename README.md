@@ -13,4 +13,4 @@
 ![Wireframe for instacook-react front-end](https://github.com/somersbmatthews/readme-images/blob/master/instacook-react-wireframe-screenshot.png)
 
 
-![Landing Page Mockup](https://github.com/somersbmatthews/readme-images/blob/master/instacook-landingpage.png)
+![Landing Page Mockup](https://github.com/somersbmatthews/readme-images/blob/master/instacook-landingpage2.png)
