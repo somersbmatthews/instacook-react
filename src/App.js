@@ -11,12 +11,12 @@ class App extends Component {
 
         <IntegrationAutosuggest />
         <video width="600" height="400" controls>
-        <source src="movie.mp4" type="video/mp4">
-        <source src="movie.ogg" type="video/ogg">
+        <source src="movie.mp4" type="video/mp4"></source>
+        <source src="movie.ogg" type="video/ogg"></source>
         Your browser does not support the video tag.
         </video>
       </div>
-    );
+    )
   }
 }
 
